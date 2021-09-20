@@ -1,6 +1,6 @@
 # Aspect-Based-Sentiment-Analysis
 
-### The current best model is present in train.py.
+To play around, in the /src folder :
 
 #### CLI command to train:
 
